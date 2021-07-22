@@ -1,6 +1,6 @@
 **vue-aurus** provides components to build data visualization apps, it's built on top of d3
 
-## Instalation
+## Installation
 
 ````
 npm i vue-aurus
